@@ -2,3 +2,7 @@ p {
     color: purple;
     background: .1px solid green;
 }
+
+div {
+    font-family: 'Comic Sans MS';
+}
